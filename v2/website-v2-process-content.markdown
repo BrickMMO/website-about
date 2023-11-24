@@ -2,31 +2,37 @@
 
 ## Process
 
-This is the main website for BrickMMO. This first version was constructed using React and MUI but was never completed or deployed. The second version is in progress and currenlty deployed. 
+IN this project we wil be adding pages to the [BrickMMO Website](https://brickmmo.com/) for each of the systems created or in development. 
 
 ---
 
 ### Already Completed
 
-The About Website website already has the About Site Template applied and the Version One documents exist. 
+The BrickMMO Website website already exists and has most pages near completion. The website [home page](https://brickmmo.com/) lists three of the existing systems and a link to the [systems page](https://brickmmo.com/systems). 
 
 *** 
 
 ### Steps
 
-1. Version Two
 
-    Create a `v2.markdown` page. Use the `v1.markdown` as a starting point.
+For each system listed on the [systesm page](https://brickmmo.com/systems) you will create a page. You will need to follow these steps:
 
-    Remove any links to documents. Update the related links to include [website-v2](https://github.com/BrickMMO/website-v2). Change the image to the same image as the `index.markdown` file. 
+1. Create a route using the format `systems-<SYSTEM_NAME>`. For example, the GPS system URL would be `systems-gps`.
 
-    Add this description:
+2. Create a folder for the new page. The page files are in `/src/views/pages` folder. The folder name will be `Systems<SYSTEM_NAME>` using pascal case. For example the folder name for the GPS system would be `SystemGps`.
 
-    > The second version is in progress and currenlty deployed.
-   
-    Fix the `Back to About` link at the bottom of the `v2.markdown` page.
+3. Copy the page files from `/src/pages/CommissionsHumber`. The layout for each system page will follow that of a commissioned projet. Review the [Humber Logo](https://brickmmo.com/commissions-humber) project for an example.
 
-    Add `Adam Thomas` as the a contributor. You can get content from the [about-flow](https://brickmmo.github.io/flow-about/v1) website. 
+4. Rename `/src/pages/SystemsGps/CommissionsHumber.js` to `/src/pages/SystemsGps/SystemGps.js`.
+
+5. Open the `/src/pages/SystemsGps/SystemGps.js` file and update the `const` line and the `export default` line.
+
+6. Update the import files. You will need to update the following files ro reference the new filename:
+
+    - `/src/pages/index.js`
+    - `/src/pages/SystemsGps/index.js`
+
+7. Update the page title to the system name. The rest of teh content wil lbe updated at a later date.
 
 [&#10132; Back to V2](/radio-about/v2)
 
