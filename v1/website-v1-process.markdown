@@ -28,22 +28,8 @@ The About Website website already has the About Site Template applied and the Ve
    
     Fix the `Back to About` link at the bottom of the `v1.markdown` page.
 
-    Add `Adam Thomas` as the only contributor. You can get content from the [about-flow](https://brickmmo.github.io/flow-about/v1) website. 
-
-3. Version Two
-
-    Create a `v2.markdown` page. Use the `v1.markdown` as a starting point.
-
-    Remove any links to documents. Update the related links to include [website-v2](https://github.com/BrickMMO/website-v2). Change the image to the same image as the `index.markdown` file. 
-
-    Add this description:
-
-    > The second version is in progress and currenlty deployed.
+    Add `Adam Thomas` as the only contributor. You can get content from the [about-flow](https://brickmmo.github.io/flow-about/v1) website.
    
-    Fix the `Back to About` link at the bottom of the `v2.markdown` page.
-
-    Add `Adam Thomas` as the a contributor. You can get content from the [about-flow](https://brickmmo.github.io/flow-about/v1) website. 
-
 [&#10132; Back to V2](/radio-about/v2)
 
 ---
