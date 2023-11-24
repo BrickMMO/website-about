@@ -30,7 +30,7 @@ The About Website website already has the About Site Template applied and the Ve
 
     Add `Adam Thomas` as the only contributor. You can get content from the [about-flow](https://brickmmo.github.io/flow-about/v1) website.
    
-[&#10132; Back to V2](/radio-about/v2)
+[&#10132; Back to V1](/radio-about/v1)
 
 ---
 
