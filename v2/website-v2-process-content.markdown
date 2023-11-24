@@ -17,7 +17,7 @@ The BrickMMO Website website already exists and has most pages near completion. 
 
 For each system listed on the [systesm page](https://brickmmo.com/systems) you will create a page. You will need to follow these steps:
 
-1. Create a route using the format `systems-<SYSTEM_NAME>`. For example, the GPS system URL would be `systems-gps`.
+1. Create a route using the format `systems-<SYSTEM_NAME>`. For example, the GPS system URL would be `systems-gps`. THe routes are stored in the `Routes.js` folder. 
 
 2. Create a folder for the new page. The page files are in `/src/views/pages` folder. The folder name will be `Systems<SYSTEM_NAME>` using pascal case. For example the folder name for the GPS system would be `SystemGps`.
 
