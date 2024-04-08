@@ -54,23 +54,14 @@ Following is a complete list of all project deliverables:
 Key project dates are outlined below. Dates are best-guess estimates and are subject to change until a contract is executed.
 
 | Description | Start Date | End Date | Duration |
-
 | - | - | - | - |
-
 | Project Start | 19/1/2024 | 26/4/2024 | 3 months |
-
 | Milestone 1 – Requirements Gathering | 26/1/2024 | 28/1/2024 | 2 days |
-
 | Milestone 2 – Hi-Fi Wireframes | 2/2/2024 | 9/2/2024 | 7 days |
-
 | Milestone 3 - Documentation | 19/1/2024 | 20/4/2024 | 3 months |
-
 | Phase 1 Complete |  | 9/2/2024 |  |
-
 | Milestone 3 – BrickMMO Website | 16/2/2024 | 22/3/2024 | 1 month |
-
 | Milestone 4 - Presentation | 26/4/2024 | 26/4/2024 | 1 day |
-
 | Phase 2 Complete |  | 26/4/2024 |  |
 
 ### CONCLUSION 
