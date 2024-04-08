@@ -8,7 +8,7 @@ For this project, our team worked on the official BrickMMO website where we took
 
 #### The Objective
 
-** - Need #1: Update the BrickMMO website with the necessary updates and changes **
-** - Need #2: Get started with React and Material UI and learn about its elements with hands-on coding. **
-** - Need #3: Emulate a real-world professional environment incorporating requirements gathering from clients and effective teamwork. **
+- ** Need #1: Update the BrickMMO website with the necessary updates and changes **
+- ** Need #2: Get started with React and Material UI and learn about its elements with hands-on coding. **
+- ** Need #3: Emulate a real-world professional environment incorporating requirements gathering from clients and effective teamwork. **
 
