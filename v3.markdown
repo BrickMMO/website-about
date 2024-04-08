@@ -1,1 +1,8 @@
 # BRICKMMO WEBSITE
+
+## DOCUMENTATION
+
+### OVERVIEW
+
+For this project, our team worked on the official BrickMMO website where we took over the task of updating and reforming the frontend of the website. As the website was built using React with Material UI and it also being a topic of our course content, we were very delighted to put our hands on it and try something new and exciting. The team was able to work on this project for the entire semester and it was a great introductory step for us to the tech stack.
+
