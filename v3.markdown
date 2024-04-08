@@ -33,3 +33,6 @@ Wireframes are like the backbone to support a project so, we decided to get star
 | ![Wireframes1](/images/v3wireframes1.png) | ![Wireframes2](/images/v3wireframes2.png) |
 
 Link to the online Figma file: [Figma Link](https://www.figma.com/file/7Bx7HJFw4NyemcKUFGRnYF/BrickMMO-Website-Wireframes?type=design&node-id=0-1&mode=design&t=POGj1ACwDQUiw6Fs-0)
+
+
+djsdkbakjbcabckabkc
