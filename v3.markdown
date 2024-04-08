@@ -24,3 +24,4 @@ The team sat at weekly meetings where we went over the tasks to be covered and i
 
 Several methods of documenting the changes and requirements were also utilized so that the team was clear on the responsibilities.
 
+| ![Documentation-1](/images/v3-Documentation1.jpg) | ![Documentation-2](/images/v3-Documentation2.jpg) |
