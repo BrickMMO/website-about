@@ -49,6 +49,30 @@ Following is a complete list of all project deliverables:
 | Smart City Page | Add a new page for the smart city with all the relevant content to it. |
 | Portfolio Page | Update the portfolio page with the content and maintain the page layout. |
 
+#### Timeline for Execution
+
+Key project dates are outlined below. Dates are best-guess estimates and are subject to change until a contract is executed.
+
+| Description | Start Date | End Date | Duration |
+
+| - | - | - | - |
+
+| Project Start | 19/1/2024 | 26/4/2024 | 3 months |
+
+| Milestone 1 – Requirements Gathering | 26/1/2024 | 28/1/2024 | 2 days |
+
+| Milestone 2 – Hi-Fi Wireframes | 2/2/2024 | 9/2/2024 | 7 days |
+
+| Milestone 3 - Documentation | 19/1/2024 | 20/4/2024 | 3 months |
+
+| Phase 1 Complete |  | 9/2/2024 |  |
+
+| Milestone 3 – BrickMMO Website | 16/2/2024 | 22/3/2024 | 1 month |
+
+| Milestone 4 - Presentation | 26/4/2024 | 26/4/2024 | 1 day |
+
+| Phase 2 Complete |  | 26/4/2024 |  |
+
 ### CONCLUSION 
 
 In conclusion, while our project remains a work in progress, the journey we're embarking on as a team is filled with promise and potential. Despite the current incompleteness, we have laid a solid foundation upon which to build and collaborate. Through our combined efforts, skills, and dedication, we are determined to overcome challenges, innovate, and ultimately deliver a successful outcome for this website as a group.
