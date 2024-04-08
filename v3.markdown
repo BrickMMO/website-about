@@ -24,12 +24,16 @@ The team sat at weekly meetings where we went over the tasks to be covered and i
 
 Several methods of documenting the changes and requirements were also utilized so that the team was clear on the responsibilities.
 
+|  |  |
+| - | - |
 | ![Documentation-1](/images/v3-Documentation1.jpg) | ![Documentation-2](/images/v3-Documentation2.jpg) |
 
 ### HI-FI WIREFRAMES
 
 Wireframes are like the backbone to support a project so, we decided to get started with it. The platform that was used for this process was Figma and the high-fidelity wireframes were created by reflecting the changes as mentioned by the client.
 
+|  |  |
+| - | - |
 | ![Wireframes1](/images/v3wireframes1.png) | ![Wireframes2](/images/v3wireframes2.png) |
 
 Link to the online Figma file: [Figma Link](https://www.figma.com/file/7Bx7HJFw4NyemcKUFGRnYF/BrickMMO-Website-Wireframes?type=design&node-id=0-1&mode=design&t=POGj1ACwDQUiw6Fs-0)
