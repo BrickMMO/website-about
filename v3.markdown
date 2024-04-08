@@ -12,3 +12,15 @@ For this project, our team worked on the official BrickMMO website where we took
 - __Need #2: Get started with React and Material UI and learn about its elements with hands-on coding.__
 - __Need #3: Emulate a real-world professional environment incorporating requirements gathering from clients and effective teamwork.__
 
+### REQUIREMENTS GATHERING
+
+The first step to any project is to know what the client is looking for, what their needs are. For this task, our instructor, Mr. Adam, was the client and we worked with him to collect the requirements for the website. The following steps were taken for this stage which were helpful for the team.
+
+- In-person meetings
+
+The team sat at weekly meetings where we went over the tasks to be covered and in case of any immediate updates on the project.
+
+- Documentation
+
+Several methods of documenting the changes and requirements were also utilized so that the team was clear on the responsibilities.
+
