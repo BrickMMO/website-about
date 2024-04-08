@@ -6,3 +6,9 @@
 
 For this project, our team worked on the official BrickMMO website where we took over the task of updating and reforming the frontend of the website. As the website was built using React with Material UI and it also being a topic of our course content, we were very delighted to put our hands on it and try something new and exciting. The team was able to work on this project for the entire semester and it was a great introductory step for us to the tech stack.
 
+#### The Objective
+
+** - Need #1: Update the BrickMMO website with the necessary updates and changes **
+** - Need #2: Get started with React and Material UI and learn about its elements with hands-on coding. **
+** - Need #3: Emulate a real-world professional environment incorporating requirements gathering from clients and effective teamwork. **
+
