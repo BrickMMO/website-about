@@ -1,0 +1,76 @@
+# BRICKMMO WEBSITE
+
+## DOCUMENTATION
+
+### OVERVIEW
+
+For this project, our team worked on the official BrickMMO website where we took over the task of updating and reforming the frontend of the website. As the website was built using React with Material UI and it also being a topic of our course content, we were very delighted to put our hands on it and try something new and exciting. The team was able to work on this project for the entire semester and it was a great introductory step for us to the tech stack.
+
+#### The Objective
+
+- __Need #1: Update the BrickMMO website with the necessary updates and changes__
+- __Need #2: Get started with React and Material UI and learn about its elements with hands-on coding.__
+- __Need #3: Emulate a real-world professional environment incorporating requirements gathering from clients and effective teamwork.__
+
+### REQUIREMENTS GATHERING
+
+The first step to any project is to know what the client is looking for, what their needs are. For this task, our instructor, Mr. Adam, was the client and we worked with him to collect the requirements for the website. The following steps were taken for this stage which were helpful for the team.
+
+- In-person meetings
+
+The team sat at weekly meetings where we went over the tasks to be covered and in case of any immediate updates on the project.
+
+- Documentation
+
+Several methods of documenting the changes and requirements were also utilized so that the team was clear on the responsibilities.
+
+|  |  |
+| - | - |
+| ![Documentation-1](/images/v3-Documentation1.jpg) | ![Documentation-2](/images/v3-Documentation2.jpg) |
+
+### HI-FI WIREFRAMES
+
+Wireframes are like the backbone to support a project so, we decided to get started with it. The platform that was used for this process was Figma and the high-fidelity wireframes were created by reflecting the changes as mentioned by the client.
+
+|  |  |
+| - | - |
+| ![Wireframes1](/images/v3wireframes1.png) | ![Wireframes2](/images/v3wireframes2.png) |
+
+Link to the online Figma file: [Figma Link](https://www.figma.com/file/7Bx7HJFw4NyemcKUFGRnYF/BrickMMO-Website-Wireframes?type=design&node-id=0-1&mode=design&t=POGj1ACwDQUiw6Fs-0)
+
+### PROJECT DELIVERABLES
+
+Following is a complete list of all project deliverables:
+
+| Deliverable | Description |
+| ----------- | ----------- |
+| HomePage Update | Add the commissions section with the project listing under it and get rid of the systems and rules blocks. |
+| Get Started Page | Tweak the form with the addition of new fields for the form with proper arrangements. |
+| Smart City Page | Add a new page for the smart city with all the relevant content to it. |
+| Portfolio Page | Update the portfolio page with the content and maintain the page layout. |
+
+#### Timeline for Execution
+
+Key project dates are outlined below. Dates are best-guess estimates and are subject to change until a contract is executed.
+
+| Description | Start Date | End Date | Duration |
+| - | - | - | - |
+| Project Start | 19/1/2024 | 26/4/2024 | 3 months |
+| Milestone 1 – Requirements Gathering | 26/1/2024 | 28/1/2024 | 2 days |
+| Milestone 2 – Hi-Fi Wireframes | 2/2/2024 | 9/2/2024 | 7 days |
+| Milestone 3 - Documentation | 19/1/2024 | 20/4/2024 | 3 months |
+| Phase 1 Complete |  | 9/2/2024 |  |
+| Milestone 3 – BrickMMO Website | 16/2/2024 | 22/3/2024 | 1 month |
+| Milestone 4 - Presentation | 26/4/2024 | 26/4/2024 | 1 day |
+| Phase 2 Complete |  | 26/4/2024 |  |
+
+### CONCLUSION 
+
+In conclusion, while our project remains a work in progress, the journey we're embarking on as a team is filled with promise and potential. Despite the current incompleteness, we have laid a solid foundation upon which to build and collaborate. Through our combined efforts, skills, and dedication, we are determined to overcome challenges, innovate, and ultimately deliver a successful outcome for this website as a group.
+
+### CONTRIBUTORS
+|  | Name | Type | Contributions |
+| - | - | - | - |
+| ![Diego](/images/diegoarivera35.png) | Diego Rivera Acosta | Student | [diegoarivera35](https://contributions.brickmmo.com/students/diegoarivera35) |
+| ![Jiabao](/images/dingdingtoronto.jpg) | Jiabao Ding | Student | [dingdingtoronto](https://contributions.brickmmo.com/students/dingdingtoronto) |  
+| ![Ashim](/images/ashimshrestha.jpg) | Ashim Shrestha | Student | [ashimstha](https://contributions.brickmmo.com/students/ashimstha) |  
