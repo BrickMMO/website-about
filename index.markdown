@@ -15,6 +15,8 @@ This part of the `index.markdown` page should include a brief description of thi
 
 ## [Version 2 - Merge with Central Console](v2)
 
+## [Version 3 - Content Organization](v3.markdown)
+
 ---
 
 <a href="https://brickmmo.com">
